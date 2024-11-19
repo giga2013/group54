@@ -1,0 +1,8 @@
+num1=input("enter number")
+num2=input("enter number")
+num3=float( num1 )
+print(num3)
+(num1 + num2)
+(num1 - num2)
+(num1 * num2)
+(num1 / num2)
