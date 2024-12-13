@@ -1,4 +1,3 @@
-
 # Tasks with a Single Number in the range():
 # Create a range starting from 0 to 5 .
 # Create a range starting from 0 to 10 .
